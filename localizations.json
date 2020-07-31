@@ -1,0 +1,12 @@
+language = {
+   "en": {
+      "1":"A phrase goes here",
+      "2":"another here",
+      "3":"and another here"
+   },
+   "sp": {
+      "1":"No hablo ingles",
+      "2":"Si hablo ingles",
+      "3":"por que"
+   }
+}
